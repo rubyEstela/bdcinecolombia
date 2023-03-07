@@ -1,0 +1,4 @@
+
+Archivo donde se muestra el modelamiento de la sala de cines
+
+file:///D:/Escritorio/cinecolombiaruby.svg
