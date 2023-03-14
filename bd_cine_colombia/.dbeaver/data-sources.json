@@ -1,10 +1,10 @@
 {
 	"folders": {},
 	"connections": {
-		"oracle_thin-186dda4a0aa-581c995e251c6b24": {
+		"oracle_thin-186dda4c9c4-4321a49b2adfd517": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
-			"name": "localhost xe/CINE",
+			"name": "localhost xe/CINE ",
 			"save-password": true,
 			"read-only": false,
 			"configuration": {
@@ -31,10 +31,10 @@
 				"handlers": {}
 			}
 		},
-		"oracle_thin-186dda4c9c4-4321a49b2adfd517": {
+		"oracle_thin-186ddb7493e-69df3626a291dfb4": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
-			"name": "localhost xe/CINE 1",
+			"name": "localhost xe/SYSTEM",
 			"save-password": true,
 			"read-only": false,
 			"configuration": {
